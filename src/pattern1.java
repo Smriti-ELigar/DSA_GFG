@@ -1,3 +1,4 @@
+
 class pattern1
 {
     static void p1(int n)
@@ -12,7 +13,7 @@ class pattern1
         }
     }
 
-    public static void main(String[] args) {
+    public static void main(String args[]) {
         p1(5);
     }
 }
