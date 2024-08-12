@@ -45,7 +45,7 @@ class GFG {
 // } Driver Code Ends
 
 
-
+//brute force approach(bubble sort)
 class Solution {
     public static int largest(int n, int[] arr) {
         for(int i=n-1;i>=0;i--){
